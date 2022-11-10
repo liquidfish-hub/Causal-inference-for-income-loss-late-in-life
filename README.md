@@ -1,6 +1,6 @@
 # Outline
 
-The document contains five R codes documents and one pdf showing a simplified simulation
+The document contains five R code documents and one pdf showing a simplified simulation
 result of original paper of P15. The following describes functionalities of different documents, and give instructions on how to use them. 
 
 Be aware: QUIC, mvtnorm, caret, pracma, parallel packages are required. Some packages might require users have R version above 3.5.3. In the first line of Main.R, users have to reset the default working directory. 
